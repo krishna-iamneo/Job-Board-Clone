@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WelcomePage {
+public class App {
     static final String ADMIN_USERNAME = "admin";
     static final String ADMIN_PASSWORD = "password";
 
